@@ -1,0 +1,5 @@
+/* Custom CSS */
+.pager li a.active-link{
+    background: #000 !important;
+    /*!important for safety issues*/
+}
